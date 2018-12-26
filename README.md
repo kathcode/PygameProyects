@@ -1,5 +1,5 @@
 # Requirements
-- Python 2+
+- Python 2.7
 - Pygame
 
 # Run the project
